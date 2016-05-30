@@ -1,0 +1,33 @@
+[
+    { "keys": ["ctrl+shift+d"], "command": "find_under_expand" },
+    { "keys": ["ctrl+d"], "command": "duplicate_line" },
+    { "keys": ["alt+shift+up"], "command": "select_lines", "args": {"forward": false} },
+    { "keys": ["alt+shift+down"], "command": "select_lines", "args": {"forward": true} },
+    // { "keys": ["alt+shift+lmouse"], "command": "select_lines", "args": {"forward": true} },
+    { "keys": ["ctrl+q"], "command": "toggle_comment", "args": { "block": false } },
+    { "keys": ["ctrl+u"], "command": "lower_case" },
+    { "keys": ["ctrl+shift+u"], "command": "upper_case" },
+    { "keys": ["ctrl+keypad0"], "command": "reset_font_size" },
+    { "keys": ["ctrl+0"], "command": "reset_font_size" },
+    { "keys": ["ctrl+shift+alt+p"], "command": "repl_open",
+                     "caption": "Python",
+                     "id": "repl_python",
+                     "mnemonic": "P",
+                     "args": {
+                        "type": "subprocess",
+                        "encoding": "utf8",
+                        "cmd": ["python", "-i", "-u"],
+                        "cwd": "$file_path",
+                        "syntax": "Packages/Python/Python.tmLanguage",
+                        "external_id": "python",
+                        "extend_env": {"PYTHONIOENCODING": "utf-8"}
+                        }
+    },
+    { "keys": ["ctrl+shift+q"], "command": "toggle_record_macro" },
+    { "keys": ["ctrl+r"], "command": "run_macro" },
+    { "keys": ["alt+a"], "command": "replace_all", "args": {"close_panel": true},
+     "context": [{"key": "panel", "operand": "replace"}, {"key": "panel_has_focus"}]},
+    { "keys": ["ctrl+k+m"], "command": "markdown_preview_select", "args": { "target": "browser" } },
+    { "keys": ["ctrl+tab"], "command": "next_view" },
+    { "keys": ["ctrl+shift+tab"], "command": "prev_view" },
+]
