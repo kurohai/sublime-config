@@ -30,4 +30,5 @@
     { "keys": ["ctrl+k+m"], "command": "markdown_preview_select", "args": { "target": "browser" } },
     { "keys": ["ctrl+tab"], "command": "next_view" },
     { "keys": ["ctrl+shift+tab"], "command": "prev_view" },
+    { "keys": ["ctrl+shift+s"], "command": "auto_save" },
 ]

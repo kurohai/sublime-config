@@ -5,11 +5,12 @@
 	],
 	"installed_packages":
 	[
-		"DiffView",
+		"auto-save",
+		"AutoHotkey",
 		"Diffy",
+		"Package Control",
 		"Pretty JSON",
 		"Sync View Scroll",
-		"Theme - Soda",
-		"Theme - Soda SolarizedDark"
+		"Theme - Soda"
 	]
 }
