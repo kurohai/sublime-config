@@ -5,3 +5,4 @@ Cache/
 *.log
 Local/
 KEEPME
+sftp_servers/
