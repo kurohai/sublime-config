@@ -7,3 +7,6 @@ Local/
 KEEPME
 sftp_servers/
 Package Control.cache/
+Package Control.last-run
+Package Control.sublime-settings
+sftp-config.json
