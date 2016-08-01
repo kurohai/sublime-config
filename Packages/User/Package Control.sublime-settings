@@ -1,0 +1,37 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"auto-save",
+		"AutoHotkey",
+		"Babel",
+		"Calculate",
+		"Diffy",
+		"Evernote",
+		"Filter Lines",
+		"Glue",
+		"JsFormat",
+		"JSHint",
+		"JSX",
+		"Markdown Preview",
+		"Package Control",
+		"Pretty JSON",
+		"ProjectManager",
+		"Python Unittest Helper",
+		"QuickSearchEnhanced",
+		"SFTP",
+		"SideBarEnhancements",
+		"Sublime Files",
+		"Sublime Text 3 Snippets",
+		"SublimeCodeIntel",
+		"SublimeREPL",
+		"Sublimerge Pro",
+		"Super Calculator",
+		"Sync View Scroll",
+		"Theme - Soda"
+	]
+}
