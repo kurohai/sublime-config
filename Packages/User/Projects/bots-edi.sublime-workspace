@@ -316,7 +316,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 514.0
+		"width": 466.0
 	},
 	"console":
 	{
@@ -337,11 +337,11 @@
 	},
 	"expanded_folders":
 	[
-		"/d/Dropbox/git/vipbots",
-		"/d/Dropbox/git/vipbots/usersys"
 	],
 	"file_history":
 	[
+		"//shares/bots/usersys/grammars/x12/810004010.py",
+		"//shares/bots/usersys/grammars/x12/810005010.py",
 		"/d/Dropbox/git/vipbots/usersys/index.py",
 		"/D/Dropbox/git/vipbots/usersys/index_parser.py",
 		"/D/Dropbox/git/mobile-booru/.gitignore",
@@ -467,9 +467,7 @@
 		"/d/Dropbox/git/pendex/core.py",
 		"/d/Dropbox/git/pendex/pendex.py",
 		"/d/Dropbox/git/pendex/readme.md",
-		"/d/Dropbox/git/pendex/tests.py",
-		"/D/Python27/lib/site-packages/whoosh/qparser/default.py",
-		"/D/Python27/lib/site-packages/whoosh/query/__init__.py"
+		"/d/Dropbox/git/pendex/tests.py"
 	],
 	"find":
 	{
@@ -747,10 +745,6 @@
 		]
 	},
 	"menu_visible": true,
-	"output.exec":
-	{
-		"height": 102.0
-	},
 	"output.find_results":
 	{
 		"height": 0.0
@@ -760,7 +754,7 @@
 		"height": 102.0
 	},
 	"pinned_build_system": "",
-	"project": "vipbots.sublime-project",
+	"project": "bots-edi.sublime-project",
 	"replace":
 	{
 		"height": 42.0
@@ -772,6 +766,14 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"81000",
+				"usersys\\grammars\\x12\\810005010.py"
+			],
+			[
+				"810004",
+				"usersys\\grammars\\x12\\810004010.py"
+			],
 			[
 				"giti",
 				".gitignore"
