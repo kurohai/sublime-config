@@ -1,4 +1,11 @@
 {
+	"added_words":
+	[
+		"Tarball",
+		"linux",
+		"Cordova",
+		"cordova"
+	],
 	"always_prompt_for_file_reload": true,
 	"always_show_minimap_viewport": true,
 	"animation_enabled": true,
@@ -97,7 +104,6 @@
 	"font_options":
 	[
 	],
-	"font_size": 10,
 	"gpu_window_buffer": "auto",
 	"gutter": true,
 	"highlight_line": false,
@@ -105,6 +111,8 @@
 	"hot_exit": true,
 	"ignored_packages":
 	[
+		"Anaconda",
+		"Python Unittest Helper",
 		"Vintage"
 	],
 	"indent_guide_options":
