@@ -1,0 +1,1132 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pena",
+				"penalty"
+			],
+			[
+				"va",
+				"values"
+			],
+			[
+				"filter",
+				"filter_by_score"
+			],
+			[
+				"pen",
+				"penalty"
+			],
+			[
+				"upd",
+				"update_penalty"
+			],
+			[
+				"rem",
+				"remove_team_from_list"
+			],
+			[
+				"upda",
+				"update_score	function"
+			],
+			[
+				"team_c",
+				"team_correct_01"
+			],
+			[
+				"team_co",
+				"team_correct_01	statement"
+			],
+			[
+				"team_list_",
+				"team_list_correct_03	statement"
+			],
+			[
+				"team_",
+				"team_list_correct_01	statement"
+			],
+			[
+				"team",
+				"team_test_input_03	statement"
+			],
+			[
+				"team_l",
+				"team_list_correct_02	statement"
+			],
+			[
+				"team_test",
+				"team_test_user_input_01	statement"
+			],
+			[
+				"par",
+				"parse_team_set	function"
+			],
+			[
+				"team_t",
+				"team_test_input_02	statement"
+			],
+			[
+				"Parse",
+				"parse_next_string	function"
+			],
+			[
+				"lo",
+				"logging"
+			],
+			[
+				"parse",
+				"parse_next_string〔function〕"
+			],
+			[
+				"parse_",
+				"parse_next_int"
+			],
+			[
+				"conte",
+				"contest_count〔variable〕"
+			],
+			[
+				"test_ca",
+				"test_cases_pass	statement"
+			],
+			[
+				"query",
+				"query_set"
+			],
+			[
+				"test",
+				"test_cases_fail〔variable〕"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"update",
+				"updateCurrentPath〔function〕"
+			],
+			[
+				"acti",
+				"activateMainApp〔function〕"
+			],
+			[
+				"pagin",
+				"pagingNextMain"
+			],
+			[
+				"pag",
+				"pagingNextImage"
+			],
+			[
+				"paging",
+				"pagingNextImage"
+			],
+			[
+				"mcB",
+				"mcButtonPreviousPage"
+			],
+			[
+				"pagingN",
+				"pagingNextMain"
+			],
+			[
+				"refre",
+				"refreshMainPage"
+			],
+			[
+				"actu",
+				"activateImageApp〔function〕"
+			],
+			[
+				"mcBu",
+				"mcButtonRefresh"
+			],
+			[
+				"settings",
+				"settingsButton〔variable〕"
+			],
+			[
+				"top",
+				"top-nav-button-previous"
+			],
+			[
+				"load",
+				"loadFullImage"
+			],
+			[
+				"pagingP",
+				"pagingPreviousImage"
+			],
+			[
+				"pagingPr",
+				"pagingPreviousMain"
+			],
+			[
+				"page",
+				"pagingNextMain"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"up",
+				"updateImageFlag"
+			],
+			[
+				"current",
+				"current_results〔variable〕"
+			],
+			[
+				"url",
+				"url_queries"
+			],
+			[
+				"activa",
+				"activateMainApp"
+			],
+			[
+				"base",
+				"base_url"
+			],
+			[
+				"ima",
+				"imageData"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"listI",
+				"listID〔variable〕"
+			],
+			[
+				"onD",
+				"onDirectorySuccess〔variable〕"
+			],
+			[
+				"tem",
+				"template_dir"
+			],
+			[
+				"pare",
+				"parentObj"
+			],
+			[
+				"init",
+				"initializeResult"
+			],
+			[
+				"scan",
+				"scanDexcom"
+			],
+			[
+				"assert",
+				"assertIn	function"
+			],
+			[
+				"Kindex",
+				"KindexModel	class"
+			],
+			[
+				"Wild",
+				"WildcardPlugin	class"
+			],
+			[
+				"pref",
+				"PrefixPlugin	class"
+			],
+			[
+				"wild",
+				"WildcardPlugin	class"
+			],
+			[
+				"field",
+				"field_boost	param"
+			],
+			[
+				"Rege",
+				"RegexPlugin	class"
+			],
+			[
+				"Ever",
+				"EveryPlugin	class"
+			],
+			[
+				"Multi",
+				"MultifieldParser	function"
+			],
+			[
+				"Reg",
+				"RegexPlugin	class"
+			],
+			[
+				"exc",
+				"exclude_path_term	statement"
+			],
+			[
+				"enco",
+				"encode_file	function"
+			],
+			[
+				"index",
+				"indexdir	statement"
+			],
+			[
+				"re",
+				"remove	function"
+			],
+			[
+				"stage",
+				"stagefile	statement"
+			],
+			[
+				"v",
+				"verbose"
+			],
+			[
+				"cl",
+				"close"
+			],
+			[
+				"save",
+				"save-only"
+			],
+			[
+				"rese",
+				"resendfile"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "ind",
+		"selected_items":
+		[
+			[
+				"ind",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"python ",
+				"Set Syntax: Python"
+			],
+			[
+				"python s",
+				"SublimeREPL: Python - Sublime Text Console"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"snippe",
+				"Snippet: Function"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"syntax py",
+				"Set Syntax: Python"
+			],
+			[
+				"evernote new",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"g",
+				"Glue - Launch"
+			],
+			[
+				"package ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"unit",
+				"Pyunit: Run Test for Source"
+			],
+			[
+				"manager add",
+				"Project Manager: Add Project"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"project man",
+				"Project Manager: Add Project"
+			],
+			[
+				"ja",
+				"Format: Javascript"
+			],
+			[
+				"project add",
+				"Project Manager: Add Project"
+			],
+			[
+				"proj",
+				"Project Manager"
+			],
+			[
+				"side b",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"js",
+				"Build With: JSHint"
+			],
+			[
+				"jsh",
+				"JSHint"
+			],
+			[
+				"prett",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"ever open",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"find ob",
+				"Anaconda: Find object usage"
+			],
+			[
+				"install package",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 514.0
+	},
+	"console":
+	{
+		"height": 132.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Dropbox/git/techhire_code_sprint_2016",
+		"/D/Dropbox/git/techhire_code_sprint_2016/tests"
+	],
+	"file_history":
+	[
+		"/D/Dropbox/git/techhire_code_sprint_2016/hr_03.py",
+		"//bras2/d$/Inetpub/ftproot/gasup/archive/o.gasup.228.out",
+		"//bras2/d$/Inetpub/ftproot/gasup/archive/o.gasup.105.out",
+		"//bras2/d$/Script/gasup/mail-gasup.pl",
+		"//shares/nix/brdocit/docs/edi/big-lots-send-channel.md",
+		"//shares/nix/brdocit/docs/edi/vip-file-interface-naming-conventions.md",
+		"/D/Dropbox/git/techhire_code_sprint_2016/tests/test_data_03_01.txt",
+		"/D/Dropbox/git/techhire_code_sprint_2016/hr05_pain_in_the_ass.py",
+		"/D/Dropbox/git/techhire_code_sprint_2016/tests/test_03.py",
+		"/D/Dropbox/git/techhire_code_sprint_2016/my_dict.py",
+		"/D/Dropbox/git/techhire_code_sprint_2016/test_data_05.txt",
+		"/D/Dropbox/git/techhire_code_sprint_2016/tests/test_05.py",
+		"/D/Dropbox/git/techhire_code_sprint_2016/test_05.py",
+		"/d/dropbox/git/dicto/dicto.py",
+		"/D/Dropbox/git/dicto.py",
+		"/D/Dropbox/git/techhire_code_sprint_2016/test_03.py",
+		"/D/Dropbox/git/techhire_code_sprint_2016/__init__.py",
+		"/D/Dropbox/git/techhire_code_sprint_2016/tests/__init__.py",
+		"/D/Dropbox/git/techhire-code-sprint-2016/hr_03.py",
+		"/D/Dropbox/git/techhire-code-sprint-2016/tests/test_data_hr05_01.txt",
+		"/D/Dropbox/git/techhire-code-sprint-2016/tests/test_03.py",
+		"/D/Dropbox/git/techhire-code-sprint-2016/hr05_pain_in_the_ass.py",
+		"/D/Dropbox/git/kindex/dicto.py",
+		"/D/Dropbox/git/techhire-code-sprint-2016/test_data_05.txt",
+		"/D/Dropbox/git/techhire-code-sprint-2016/testig_pop.py",
+		"/D/Dropbox/git/techhire-code-sprint-2016/hr02_paint_the_classroom_test_cases.py",
+		"/D/Dropbox/git/techhire-code-sprint-2016/world-code-sprint/palindromes.py",
+		"/D/Dropbox/git/techhire-code-sprint-2016/02_paint_the_classroom.py",
+		"/D/Dropbox/git/techhire-code-sprint-2016/02_paint_the_classroom_again.py",
+		"/D/Dropbox/git/techhire-code-sprint-2016/hr04_dump.py",
+		"/D/Dropbox/git/techhire-code-sprint-2016/trying_select.py",
+		"/D/Dropbox/git/techhire-code-sprint-2016/test_05.py",
+		"/D/Dropbox/git/techhire-code-sprint-2016/hr05_dump.py",
+		"/C/Users/root/AppData/Local/Temp/7zOD2F8.tmp/wordlist.txt",
+		"/D/Dropbox/portagrams/sublime/Data/Packages/User/MarkdownPreview.sublime-settings",
+		"/D/Dropbox/git/techhire-code-sprint-2016/01_large_matrix.py",
+		"/C/Users/root/AppData/Local/Temp/7zO95EE.tmp/output00.txt",
+		"/C/Users/root/AppData/Local/Temp/7zO7FDE.tmp/input00.txt",
+		"/C/Program Files (x86)/pycron/pycron.log",
+		"/C/Users/root/AppData/Roaming/Jedi/Jedi/colord/anaconda_jsonserver.log",
+		"/D/Dropbox/git/pokemon-go-map/config-info.txt",
+		"/D/Dropbox/git/buffalorock/brbackup/root.cron",
+		"/D/Dropbox/git/archive/mbtracker/app/vmms-util.cron",
+		"/D/Dropbox/git/pokemon-go-map/heroku-config.sh",
+		"/D/Dropbox/git/PokemonGo-Map/Procfile",
+		"/D/Dropbox/git/PokemonGo-Map/Dockerfile",
+		"/D/Dropbox/git/PokemonGo-Map/static/map.js",
+		"/D/Dropbox/git/PokemonGo-Map/templates/map.html",
+		"/D/Dropbox/git/xDrip-Experimental/reboot-fix/debug-log-post-fix.txt",
+		"/D/Dropbox/git/xDrip-Experimental/reboot-fix/debug-log-pre-fix.txt",
+		"/D/Dropbox/portagrams/sublime/addme.py",
+		"/D/Dropbox/git/mobile-booru/release-version-apk-signing.md",
+		"/D/Dropbox/git/mobile-booru/readme.md",
+		"/D/Dropbox/git/mobile-booru/config.xml",
+		"/D/Dropbox/git/mobile-booru/www/index.html",
+		"/D/Dropbox/git/mobile-booru/www/css/index.css",
+		"/D/Dropbox/git/mobile-booru/www/js/kuroapp.js",
+		"/D/Dropbox/git/mobile-booru/platforms/android/AndroidManifest.xml",
+		"/D/Dropbox/git/mobile-booru/.gitignore",
+		"/d/dropbox/git/mobile-booru/.gitignore",
+		"/D/Dropbox/git/mobile-booru/www/lib/quojs-3.0.5/quo.gestures.js",
+		"/D/Dropbox/git/mobile-booru/www/lib/quojs-3.0.5/quo.js",
+		"/D/Dropbox/git/mobile-booru/www/lib/quojs-3.0.5/quo.standalone.js",
+		"/D/Dropbox/git/mobile-booru/www/lib/quojs-3.0.5/quo.element.js",
+		"/D/Dropbox/git/mobile-booru/platforms/android/assets/www/lib/quojs-3.0.5/quo.gestures.js",
+		"/D/Dropbox/git/mobile-booru/www/lib/quojs-3.0.5/quo.output.js",
+		"/D/Dropbox/git/mobile-booru/www/lib/quojs-3.0.5/quo.query.js",
+		"/D/Dropbox/git/mobile-booru/www/lib/quojs-3.0.5/README.md",
+		"/D/Dropbox/git/mobile-booru/www/lib/quojs-3.0.5/quo.environment.js",
+		"/D/Dropbox/git/mobile-booru/www/lib/quojs-3.0.5/quo.events.js",
+		"/D/Dropbox/git/mobile-booru/www/lib/quojs-3.0.5/quo.ajax.js",
+		"/D/Dropbox/git/mobile-booru/www/lib/quojs-3.0.5/quo.css.js",
+		"/D/Dropbox/Evan/Resume/archive/job-descriptions.txt",
+		"/D/Dropbox/git/mobile-booru/data/danbooru-posts.json",
+		"/D/Dropbox/git/mobile-booru/www/js/index.js",
+		"/D/Dropbox/git/kordova-template/readme.md",
+		"/D/Dropbox/Apps/pokego-dump-01.txt",
+		"/D/Dropbox/Apps/pokego-dump-02.txt",
+		"/D/Dropbox/Apps/pokego-dump-03.txt",
+		"/d/dropbox/git/mobile-booru/create-repo-output.log",
+		"/D/Dropbox/portagrams/scripts/bashrc-git-bash",
+		"/D/Dropbox/reddit.txt",
+		"/D/Dropbox/portagrams/sublime/Data/Packages/User/Projects/library.json",
+		"/D/Dropbox/portagrams/sublime/Data/Packages/User/Projects/recent.json",
+		"/D/Dropbox/Evan/Resume/2016/newstore-job-description-reply.md",
+		"/D/Dropbox/Evan/Resume/2016/taos-other-jobs.md",
+		"/D/Dropbox/git/kordova-template/www/js/kuroapp.js",
+		"/D/Dropbox/git/kordova-template/www/css/index.css",
+		"/D/Dropbox/git/kordova-template/www/js/index.js",
+		"/D/Dropbox/git/kordova-template/www/index.html",
+		"/D/Dropbox/git/kordova-template/common-cordova-commands.md",
+		"/D/Dropbox/git/kordova-template/danbooru-posts.json",
+		"/D/Dropbox/git/kordova-template/platforms/android/assets/www/index.html",
+		"/D/Dropbox/git/kordova-template/platforms/android/assets/www/css/index.css",
+		"/D/Dropbox/git/kordova-template/platforms/android/assets/www/js/index.js",
+		"/D/Dropbox/git/kordova-template/platforms/android/build/intermediates/assets/debug/www/index.html",
+		"/D/Dropbox/git/kordova-template/platforms/android/build/intermediates/assets/debug/www/css/index.css",
+		"/D/Dropbox/git/kordova-template/platforms/android/build/intermediates/assets/debug/www/js/index.js",
+		"/D/Dropbox/git/kordova-template/platforms/browser/www/index.html",
+		"/D/Dropbox/git/kordova-template/platforms/browser/www/css/index.css",
+		"/D/Dropbox/git/kordova-template/platforms/browser/www/js/index.js",
+		"/D/Dropbox/git/kordova-template/config.xml",
+		"/D/Dropbox/git/cordova-project-template/platforms/browser/cordova/defaults.xml",
+		"/D/Dropbox/git/cordova-project-template/plugins/browser.json",
+		"/D/Dropbox/git/cordova-project-template/plugins/android.json",
+		"/D/Dropbox/git/cordova-project-template/platforms/browser/www/config.xml",
+		"/D/Dropbox/git/cordova-project-template/platforms/browser/config.xml",
+		"/D/Dropbox/git/cordova-project-template/config.xml",
+		"/D/Dropbox/git/cordova-project-template/platforms/browser/browser.json",
+		"/D/Dropbox/git/cordova-project-template/platforms/browser/www/exec.js",
+		"/D/Dropbox/git/cordova-project-template/platforms/browser/www/cordova.js",
+		"/D/Dropbox/downloads/PBEX_VIP_IN_BUFFROCK_1100001004249_HIGHTIDE_07122016134515.in",
+		"/D/Dropbox/downloads/PBEX_VIP_IN_BUFFROCK_1100001004249_HIGHTIDE_07122016134518.in",
+		"/C/Dropbox/video-recording-linux.md",
+		"/D/Dropbox/git/kordova/www/css/index.css",
+		"/D/Dropbox/git/kordova/www/index.html",
+		"/D/dropbox/git/kordova/www/js/kuroapp.js",
+		"/D/Dropbox/git/kordova/www/js/index.js",
+		"/D/Dropbox/git/kordova/config.xml",
+		"/D/Dropbox/portagrams/sublime/Data/Packages/SublimeCodeIntel/Default (Windows).sublime-keymap",
+		"/D/Dropbox/portagrams/sublime/Data/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/D/Dropbox/git/kordova/terminal.glue",
+		"/D/Dropbox/git/kordova/.gitignore",
+		"/D/Dropbox/git/kordova/www/lib/ratchet/css/ratchet.css",
+		"/D/Dropbox/git/kordova/www/js/bluetoothle-index.js",
+		"/D/Dropbox/git/kordova/www/js/derp.js",
+		"/D/Dropbox/git/kordova/www/js/derpharder.js",
+		"/D/Dropbox/git/kordova/www/cordova.js"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+			"<project files>,<open files>,<project folders>,<open folders>",
+			"<project files>,<open files>,<project folders>",
+			"<project files>,<open files>",
+			"<project files>,<open folders>,<open files>",
+			"<project files>, <open fiiles>",
+			"<project files>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"pprint",
+			"\\t\\t",
+			"place",
+			"alp",
+			" +# pri.+\\n",
+			"remove_t",
+			" print",
+			"check_for_team",
+			"log.error",
+			"log.warn",
+			"team_test_user_input_01",
+			"parse_query_set",
+			"team_list_correct",
+			"self.team_correct",
+			"-",
+			" ",
+			"^(#| +#|^#).+",
+			"^\\n^\\n",
+			"  +#.+\\n",
+			"^.  +(# print '|print ').+",
+			"one_ring",
+			"^\\n^\\n\\ndef",
+			"^\\n^\\ndef",
+			"^\\ndef",
+			"^\\n\\ndef",
+			"\\n\\ndef",
+			"words",
+			"lep",
+			" ",
+			"(\\[|'|,)",
+			"  +# print.+\\n",
+			"  +# print\\n",
+			"n",
+			"y",
+			"  +#.+\\n",
+			"rain_main",
+			"# print '(yes|no)'",
+			"print",
+			"elif color = ",
+			"hide common",
+			"hide common poke",
+			"button-cont",
+			"switch-container",
+			"filter",
+			"refreshMainPage",
+			"\\\\",
+			" upda",
+			"current_path",
+			" pagingpre",
+			"pagingpre",
+			"refresh",
+			"mcSwipeNextPage",
+			"mcSwipeNextImage",
+			"mcSwipePreviousImage",
+			"activateim",
+			"screenimage",
+			"ImageSc",
+			"loadFull",
+			"updateima",
+			"previousimage",
+			"activateim",
+			"loadfull",
+			"updatei",
+			"mcButtonPrevious",
+			"addEven",
+			"myele",
+			"   +\\$\\$",
+			"\\$\\$",
+			"loadf",
+			"tap",
+			"swipe",
+			"tap",
+			"update",
+			"tap",
+			"events",
+			"swipingHorizontal",
+			"activate-main",
+			"deviceListRatchet",
+			"../bower/",
+			"activateMa",
+			"divHolder",
+			"activateMainApp",
+			"top-nav-button-home",
+			"activateMainApp",
+			"updateCurrentPath",
+			"refreshMainPage",
+			"pagingPreviousImage",
+			"loadFullImage",
+			"pagingPreviousImage",
+			"addHammerTimeMainScreen",
+			"pagingNextImage",
+			"onBackKeyDownMainScreen",
+			"addHammerTimeMainScreen",
+			"addHammerTimeImageScreen",
+			"scan",
+			"screenScan",
+			"activateScanApp",
+			"^\\n\\n",
+			"h1",
+			"\"7\"",
+			"session_",
+			"(?![a-zA-Z0-9])",
+			"(?![a-zA-Z])",
+			"\\\\'",
+			"'",
+			",|\\&|^",
+			",|\\&",
+			"\\[",
+			"this.activate",
+			"\"#img-\" + imageData.id",
+			".app",
+			"scan-app",
+			"startKordovaTemplateApp",
+			"startDexcomScan",
+			"dexc",
+			"hellodexcom",
+			"HelloDexcom",
+			"io.cordova.hellocordova",
+			"com.kurohai.hellodexcom",
+			"hellodexcom",
+			"400050004",
+			"console.log",
+			"derpHarder",
+			"this(\\.screen....+?\\.s)",
+			"this.screenMain.s",
+			"this(\\.screen....+?\\.s)",
+			"this\\.screenMain\\.",
+			"        screen"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"    ",
+			"",
+			" # print",
+			"log.debug",
+			"team_test_set_input_01",
+			"parse_team_set",
+			"team_list_correct_01",
+			"self.team_correct_01",
+			"_",
+			"",
+			"\\n",
+			"",
+			"my_precious",
+			"\\n\\ndef",
+			"\\n\\n\\ndef",
+			"word_count",
+			"\\n",
+			"",
+			"no",
+			"yes",
+			"",
+			"rain_man",
+			"print '\\1'",
+			"print \\1",
+			"# print",
+			"elif color == ",
+			"/",
+			"mcSwipePreviousPage",
+			"mcSwipeNextPage",
+			"mcSwipePreviousImage",
+			"mcSwipeNextImage",
+			"mcButtonPreviousPage",
+			"image-view",
+			"lib/quojs-3.0.5/",
+			"kuroapp.divHolder",
+			"screenImage",
+			"activateImageApp",
+			"\\n",
+			"\\1\\n",
+			"'''",
+			"\\\\'",
+			"\\n-",
+			"\\n- ",
+			"(",
+			"kuroapp.activate",
+			"\".app\"",
+			"image-app",
+			"startKordovaTemplateApp",
+			"KordovaTemplate",
+			"com.kurohai.mobilemoe",
+			"kuroapp.log",
+			"startDexcomScan",
+			"kuroapp\\1",
+			"kuroapp\\.screenMain\\.",
+			"        this.screen",
+			"this.screen",
+			"className = \\1",
+			"};\\n",
+			"};",
+			"\\\\\"",
+			"\\'",
+			": ",
+			"",
+			"/compassg",
+			"compassg/",
+			"/compassg/",
+			"",
+			"kindex.py ",
+			"sanitize",
+			"sanatize_directory",
+			"create_index",
+			"format_index_path",
+			"index_file",
+			"KindexController",
+			"\\\\\\\\",
+			"\\\\",
+			"(\\1) + ",
+			"*",
+			"",
+			" + ",
+			"*",
+			"",
+			".file.msg",
+			"\\1",
+			"\\n",
+			"",
+			"\\1",
+			"$d3",
+			"\\n",
+			"",
+			"\\n",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 232.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "techhire-code-sprint-2016.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"testdat",
+				"tests\\test_data_03_01.txt"
+			],
+			[
+				"05",
+				"hr05_pain_in_the_ass.py"
+			],
+			[
+				"test_",
+				"tests\\test_03.py"
+			],
+			[
+				"testdata03",
+				"tests\\test_data_03_01.txt"
+			],
+			[
+				"testda",
+				"tests\\test_data_03_01.txt"
+			],
+			[
+				"test_py",
+				"tests\\test_05.py"
+			],
+			[
+				"_03",
+				"test_03.py"
+			],
+			[
+				"test_d",
+				"test_data_05.txt"
+			],
+			[
+				"hr05",
+				"hr05_pain_in_the_ass.py"
+			],
+			[
+				"test",
+				"hr02_paint_the_classroom_test_cases.py"
+			],
+			[
+				".html",
+				"templates\\map.html"
+			],
+			[
+				"sign",
+				"release-version-apk-signing.md"
+			],
+			[
+				"confi",
+				"config.xml"
+			],
+			[
+				"config",
+				"config.xml"
+			],
+			[
+				"index",
+				"www\\index.html"
+			],
+			[
+				"read",
+				"readme.md"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"androidman",
+				"platforms\\android\\AndroidManifest.xml"
+			],
+			[
+				"config.xml",
+				"config.xml"
+			],
+			[
+				"standa",
+				"www\\lib\\quojs-3.0.5\\quo.standalone.js"
+			],
+			[
+				"",
+				"www\\index.html"
+			],
+			[
+				"quo",
+				"www\\lib\\quojs-3.0.5\\quo.element.js"
+			],
+			[
+				"quoges",
+				"www\\lib\\quojs-3.0.5\\quo.gestures.js"
+			],
+			[
+				"html",
+				"www\\index.html"
+			],
+			[
+				"kuroapp",
+				"www\\js\\kuroapp.js"
+			],
+			[
+				"index.css",
+				"www\\css\\index.css"
+			],
+			[
+				"index.html",
+				"www\\index.html"
+			],
+			[
+				".css",
+				"www\\css\\index.css"
+			],
+			[
+				"redo",
+				"kindex\\redo.sh"
+			],
+			[
+				"__",
+				"kindex\\__init__.py"
+			],
+			[
+				"gitig",
+				"kindex\\.gitignore"
+			],
+			[
+				"giti",
+				"pendex\\.gitignore"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 378.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 199.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

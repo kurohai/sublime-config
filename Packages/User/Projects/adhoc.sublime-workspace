@@ -1,0 +1,907 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"const",
+				"constraints"
+			],
+			[
+				"househ",
+				"householdConstraints"
+			],
+			[
+				"get",
+				"getElementsByName〔function〕"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"scre",
+				"screenImage〔variable〕"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"update",
+				"updateCurrentPath〔function〕"
+			],
+			[
+				"acti",
+				"activateMainApp〔function〕"
+			],
+			[
+				"pagin",
+				"pagingNextMain"
+			],
+			[
+				"pag",
+				"pagingNextImage"
+			],
+			[
+				"paging",
+				"pagingNextImage"
+			],
+			[
+				"mcB",
+				"mcButtonPreviousPage"
+			],
+			[
+				"pagingN",
+				"pagingNextMain"
+			],
+			[
+				"refre",
+				"refreshMainPage"
+			],
+			[
+				"actu",
+				"activateImageApp〔function〕"
+			],
+			[
+				"mcBu",
+				"mcButtonRefresh"
+			],
+			[
+				"settings",
+				"settingsButton〔variable〕"
+			],
+			[
+				"top",
+				"top-nav-button-previous"
+			],
+			[
+				"load",
+				"loadFullImage"
+			],
+			[
+				"pagingP",
+				"pagingPreviousImage"
+			],
+			[
+				"pagingPr",
+				"pagingPreviousMain"
+			],
+			[
+				"page",
+				"pagingNextMain"
+			],
+			[
+				"up",
+				"updateImageFlag"
+			],
+			[
+				"current",
+				"current_results〔variable〕"
+			],
+			[
+				"url",
+				"url_queries"
+			],
+			[
+				"activa",
+				"activateMainApp"
+			],
+			[
+				"base",
+				"base_url"
+			],
+			[
+				"ima",
+				"imageData"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"listI",
+				"listID〔variable〕"
+			],
+			[
+				"onD",
+				"onDirectorySuccess〔variable〕"
+			],
+			[
+				"tem",
+				"template_dir"
+			],
+			[
+				"pare",
+				"parentObj"
+			],
+			[
+				"init",
+				"initializeResult"
+			],
+			[
+				"scan",
+				"scanDexcom"
+			],
+			[
+				"assert",
+				"assertIn	function"
+			],
+			[
+				"Kindex",
+				"KindexModel	class"
+			],
+			[
+				"Wild",
+				"WildcardPlugin	class"
+			],
+			[
+				"pref",
+				"PrefixPlugin	class"
+			],
+			[
+				"wild",
+				"WildcardPlugin	class"
+			],
+			[
+				"field",
+				"field_boost	param"
+			],
+			[
+				"Rege",
+				"RegexPlugin	class"
+			],
+			[
+				"Ever",
+				"EveryPlugin	class"
+			],
+			[
+				"Multi",
+				"MultifieldParser	function"
+			],
+			[
+				"Reg",
+				"RegexPlugin	class"
+			],
+			[
+				"exc",
+				"exclude_path_term	statement"
+			],
+			[
+				"enco",
+				"encode_file	function"
+			],
+			[
+				"index",
+				"indexdir	statement"
+			],
+			[
+				"re",
+				"remove	function"
+			],
+			[
+				"stage",
+				"stagefile	statement"
+			],
+			[
+				"v",
+				"verbose"
+			],
+			[
+				"cl",
+				"close"
+			],
+			[
+				"save",
+				"save-only"
+			],
+			[
+				"rese",
+				"resendfile"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 85.0,
+		"last_filter": "manager add",
+		"selected_items":
+		[
+			[
+				"manager add",
+				"Project Manager: Add Project"
+			],
+			[
+				"sftp",
+				"SFTP: Sync Local -> Remote…"
+			],
+			[
+				"sftp sync",
+				"SFTP: Sync Local -> Remote…"
+			],
+			[
+				"ja",
+				"Format: Javascript"
+			],
+			[
+				"project add",
+				"Project Manager: Add Project"
+			],
+			[
+				"proj",
+				"Project Manager"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"side b",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"js",
+				"Build With: JSHint"
+			],
+			[
+				"jsh",
+				"JSHint"
+			],
+			[
+				"prett",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"ever open",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"find ob",
+				"Anaconda: Find object usage"
+			],
+			[
+				"install ",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 514.0
+	},
+	"console":
+	{
+		"height": 132.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/d/Dropbox/git/homework"
+	],
+	"file_history":
+	[
+		"/d/Dropbox/git/homework/hhbuilder/index.html",
+		"/D/Dropbox/git/homework/hhbuilder/readme.md",
+		"/D/Dropbox/git/mobile-booru/www/js/kuroapp.js",
+		"/D/Dropbox/git/mobile-booru/mobile-booru.json",
+		"/D/Dropbox/git/homework/sftp-config.json",
+		"/D/Dropbox/git/mobile-booru/www/css/index.css",
+		"/D/Dropbox/git/mobile-booru/www/index.html",
+		"/D/Dropbox/git/mobile-booru/.gitignore",
+		"/D/Dropbox/git/mobile-booru/data/setup-cordova-remote-dev-box.md",
+		"/D/Dropbox/git/mobile-booru/data/java.md",
+		"/D/Dropbox/git/mobile-booru/data/common-cordova-commands.md",
+		"/D/Dropbox/git/mobile-booru/setup-cordova-remote-dev-box.md",
+		"/D/Dropbox/git/mobile-booru/sftp-config.json",
+		"/D/Dropbox/git/mobile-booru/platforms/android/AndroidManifest.xml",
+		"/D/Dropbox/git/mobile-booru/platforms/android/cordova/lib/android_sdk_version.js",
+		"/D/Dropbox/git/mobile-booru/platforms/android/cordova/android_sdk_version",
+		"/D/Dropbox/git/mobile-booru/readme.md",
+		"/D/Dropbox/git/mobile-booru/release-version-apk-signing.md",
+		"/d/Dropbox/git/mobile-booru/.gitignore",
+		"/D/Dropbox/git/mobile-booru/config.xml",
+		"/d/dropbox/git/mobile-booru/.gitignore",
+		"/D/Dropbox/git/mobile-booru/www/lib/quojs-3.0.5/quo.gestures.js",
+		"/D/Dropbox/git/mobile-booru/www/lib/quojs-3.0.5/quo.js",
+		"/D/Dropbox/git/mobile-booru/www/lib/quojs-3.0.5/quo.standalone.js",
+		"/D/Dropbox/git/mobile-booru/www/lib/quojs-3.0.5/quo.element.js",
+		"/D/Dropbox/git/mobile-booru/platforms/android/assets/www/lib/quojs-3.0.5/quo.gestures.js",
+		"/D/Dropbox/git/mobile-booru/www/lib/quojs-3.0.5/quo.output.js",
+		"/D/Dropbox/git/mobile-booru/www/lib/quojs-3.0.5/quo.query.js",
+		"/D/Dropbox/git/mobile-booru/www/lib/quojs-3.0.5/README.md",
+		"/D/Dropbox/git/mobile-booru/www/lib/quojs-3.0.5/quo.environment.js",
+		"/D/Dropbox/git/mobile-booru/www/lib/quojs-3.0.5/quo.events.js",
+		"/D/Dropbox/git/mobile-booru/www/lib/quojs-3.0.5/quo.ajax.js",
+		"/D/Dropbox/git/mobile-booru/www/lib/quojs-3.0.5/quo.css.js",
+		"/D/Dropbox/Evan/Resume/archive/job-descriptions.txt",
+		"/D/Dropbox/git/mobile-booru/data/danbooru-posts.json",
+		"/D/Dropbox/git/mobile-booru/www/js/index.js",
+		"/D/Dropbox/git/kordova-template/readme.md",
+		"/D/Dropbox/Apps/pokego-dump-01.txt",
+		"/D/Dropbox/Apps/pokego-dump-02.txt",
+		"/D/Dropbox/Apps/pokego-dump-03.txt",
+		"/d/dropbox/git/mobile-booru/create-repo-output.log",
+		"/D/Dropbox/portagrams/scripts/bashrc-git-bash",
+		"/D/Dropbox/reddit.txt",
+		"/D/Dropbox/portagrams/sublime/Data/Packages/User/Projects/library.json",
+		"/D/Dropbox/portagrams/sublime/Data/Packages/User/Projects/recent.json",
+		"/D/Dropbox/Evan/Resume/2016/newstore-job-description-reply.md",
+		"/D/Dropbox/Evan/Resume/2016/taos-other-jobs.md",
+		"/D/Dropbox/git/kordova-template/www/js/kuroapp.js",
+		"/D/Dropbox/git/kordova-template/www/css/index.css",
+		"/D/Dropbox/git/kordova-template/www/js/index.js",
+		"/D/Dropbox/git/kordova-template/www/index.html",
+		"/D/Dropbox/git/kordova-template/common-cordova-commands.md",
+		"/D/Dropbox/git/kordova-template/danbooru-posts.json",
+		"/D/Dropbox/git/kordova-template/platforms/android/assets/www/index.html",
+		"/D/Dropbox/git/kordova-template/platforms/android/assets/www/css/index.css",
+		"/D/Dropbox/git/kordova-template/platforms/android/assets/www/js/index.js",
+		"/D/Dropbox/git/kordova-template/platforms/android/build/intermediates/assets/debug/www/index.html",
+		"/D/Dropbox/git/kordova-template/platforms/android/build/intermediates/assets/debug/www/css/index.css",
+		"/D/Dropbox/git/kordova-template/platforms/android/build/intermediates/assets/debug/www/js/index.js",
+		"/D/Dropbox/git/kordova-template/platforms/browser/www/index.html",
+		"/D/Dropbox/git/kordova-template/platforms/browser/www/css/index.css",
+		"/D/Dropbox/git/kordova-template/platforms/browser/www/js/index.js",
+		"/D/Dropbox/git/kordova-template/config.xml",
+		"/D/Dropbox/git/cordova-project-template/platforms/browser/cordova/defaults.xml",
+		"/D/Dropbox/git/cordova-project-template/plugins/browser.json",
+		"/D/Dropbox/git/cordova-project-template/plugins/android.json",
+		"/D/Dropbox/git/cordova-project-template/platforms/browser/www/config.xml",
+		"/D/Dropbox/git/cordova-project-template/platforms/browser/config.xml",
+		"/D/Dropbox/git/cordova-project-template/config.xml",
+		"/D/Dropbox/git/cordova-project-template/platforms/browser/browser.json",
+		"/D/Dropbox/git/cordova-project-template/platforms/browser/www/exec.js",
+		"/D/Dropbox/git/cordova-project-template/platforms/browser/www/cordova.js",
+		"/D/Dropbox/downloads/PBEX_VIP_IN_BUFFROCK_1100001004249_HIGHTIDE_07122016134515.in",
+		"/D/Dropbox/downloads/PBEX_VIP_IN_BUFFROCK_1100001004249_HIGHTIDE_07122016134518.in",
+		"/C/Dropbox/video-recording-linux.md",
+		"/D/Dropbox/git/kordova/www/css/index.css",
+		"/D/Dropbox/git/kordova/www/index.html",
+		"/D/dropbox/git/kordova/www/js/kuroapp.js",
+		"/D/Dropbox/git/kordova/www/js/index.js",
+		"/D/Dropbox/git/kordova/config.xml",
+		"/D/Dropbox/portagrams/sublime/Data/Packages/SublimeCodeIntel/Default (Windows).sublime-keymap",
+		"/D/Dropbox/portagrams/sublime/Data/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/D/Dropbox/git/kordova/terminal.glue",
+		"/D/Dropbox/git/kordova/.gitignore",
+		"/D/Dropbox/git/kordova/www/lib/ratchet/css/ratchet.css",
+		"/D/Dropbox/git/kordova/www/js/bluetoothle-index.js",
+		"/D/Dropbox/git/kordova/www/js/derp.js",
+		"/D/Dropbox/git/kordova/www/js/derpharder.js",
+		"/D/Dropbox/git/kordova/www/cordova.js",
+		"/D/Dropbox/git/cordova-tutorial/workshop/www/js/app.js",
+		"/D/Dropbox/git/cordova-tutorial/workshop/www/js/index.js",
+		"/D/Dropbox/git/cordova-tutorial/workshop/www/index.html",
+		"/D/Dropbox/git/cordova-tutorial/workshop/www/lib/jquery.js",
+		"/D/Dropbox/git/cordova-tutorial/workshop/www/js/services/memory/EmployeeService.js",
+		"/D/Dropbox/git/cordova-tutorial/workshop/www/js/services/websql/EmployeeService.js",
+		"/D/Dropbox/git/cordova-tutorial/workshop/www/js/services/json/EmployeeService.js",
+		"/D/Dropbox/git/cordova-tutorial/workshop/www/js/services/localstorage/EmployeeService.js",
+		"/D/Dropbox/git/cordova-tutorial/workshop/www/lib/handlebars.js",
+		"/D/Dropbox/git/cordova-tutorial/workshop/www/lib/fastclick.js",
+		"/D/Dropbox/git/kordova/readme.md",
+		"/D/Dropbox/git/kordova/www/js/index_ble_01.js",
+		"/D/Dropbox/git/kordova/www/index_ble_01.html",
+		"/d/Dropbox/git/kordova/www/js/index.js",
+		"/d/Dropbox/git/kordova/config.xml",
+		"/D/Dropbox/git/kordova/www/js/kble.js",
+		"/D/Dropbox/git/kordova/www/hello.html",
+		"/d/Dropbox/git/kordova/www/hello.html",
+		"/D/Dropbox/git/kordova/www/another.html",
+		"/d/Dropbox/git/kordova/www/index.html",
+		"/D/Dropbox/Evan/Resume/2016/consultant-cwt-sc.txt",
+		"/D/Dropbox/Evan/Resume/2016/consultant.txt",
+		"/N/brdocit/docs/sysadmin/killing-bras2.md",
+		"/N/brdocit/gen-menu.py",
+		"/N/scripts/compGetter.py",
+		"/N/brdocit/docs/killing-bras2.md",
+		"/N/brdocit/docs/edi/compassg-bots-migration.md",
+		"//brpna-nas/nix/brdocit/docs/edi/compassg-bots-migration.md",
+		"/N/scripts/compassggetter.py",
+		"/c/python27/lib/site-packages/dateutil/parser.py",
+		"/d/Dropbox/git/kindex/test.py",
+		"/d/Dropbox/git/kindex/core.py",
+		"/d/Dropbox/git/kindex/kindex.py",
+		"/d/dropbox/git/kindex/.git/config",
+		"/d/Dropbox/git/kindex/readme.md",
+		"/d/Dropbox/git/pendex/core.py",
+		"/d/Dropbox/git/pendex/pendex.py",
+		"/d/Dropbox/git/pendex/readme.md",
+		"/d/Dropbox/git/pendex/tests.py"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+			"<project files>,<open files>,<project folders>,<open folders>",
+			"<project files>,<open files>,<project folders>",
+			"<project files>,<open files>",
+			"<project files>,<open folders>,<open files>",
+			"<project files>, <open fiiles>",
+			"<project files>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"add",
+			"hh\\.",
+			":",
+			",",
+			"default",
+			"activateim",
+			"loadfull",
+			"(^\\n)+###",
+			"^###",
+			"^# ",
+			"sudo ",
+			"^# ",
+			"tag-search-form",
+			"^\\n^\\n",
+			"\\}",
+			"^\\n^\\n",
+			"^\\n\\n",
+			"^\\n$\\n$",
+			"refreshMainPage",
+			"\\\\",
+			" upda",
+			"current_path",
+			" pagingpre",
+			"pagingpre",
+			"refresh",
+			"mcSwipeNextPage",
+			"mcSwipeNextImage",
+			"mcSwipePreviousImage",
+			"activateim",
+			"screenimage",
+			"ImageSc",
+			"loadFull",
+			"updateima",
+			"previousimage",
+			"activateim",
+			"loadfull",
+			"updatei",
+			"mcButtonPrevious",
+			"addEven",
+			"myele",
+			"   +\\$\\$",
+			"\\$\\$",
+			"loadf",
+			"tap",
+			"swipe",
+			"tap",
+			"update",
+			"tap",
+			"events",
+			"swipingHorizontal",
+			"activate-main",
+			"deviceListRatchet",
+			"../bower/",
+			"activateMa",
+			"divHolder",
+			"activateMainApp",
+			"top-nav-button-home",
+			"activateMainApp",
+			"updateCurrentPath",
+			"refreshMainPage",
+			"pagingPreviousImage",
+			"loadFullImage",
+			"pagingPreviousImage",
+			"addHammerTimeMainScreen",
+			"pagingNextImage",
+			"onBackKeyDownMainScreen",
+			"addHammerTimeMainScreen",
+			"addHammerTimeImageScreen",
+			"scan",
+			"screenScan",
+			"activateScanApp",
+			"^\\n\\n",
+			"h1",
+			"\"7\"",
+			"session_",
+			"(?![a-zA-Z0-9])",
+			"(?![a-zA-Z])",
+			"\\\\'",
+			"'",
+			",|\\&|^",
+			",|\\&",
+			"\\[",
+			"this.activate",
+			"\"#img-\" + imageData.id",
+			".app",
+			"scan-app",
+			"startKordovaTemplateApp",
+			"startDexcomScan",
+			"dexc",
+			"hellodexcom",
+			"HelloDexcom",
+			"io.cordova.hellocordova",
+			"com.kurohai.hellodexcom",
+			"hellodexcom",
+			"400050004",
+			"console.log",
+			"derpHarder",
+			"this(\\.screen....+?\\.s)",
+			"this.screenMain.s",
+			"this(\\.screen....+?\\.s)",
+			"this\\.screenMain\\.",
+			"        screen",
+			"var screen",
+			"className\\((.+)\\);",
+			"oop-btn-01",
+			"scanDe",
+			"scanDexcom",
+			"checkConnected",
+			"connectSuccess",
+			"connectDexcom",
+			"addScannedServiceDetails",
+			"connectDexcom",
+			"^}\\n",
+			"addScannedDeviceDetails",
+			"addScannedServiceDetails",
+			"\"",
+			"\\\"",
+			"addscann",
+			"(\\:)",
+			"scanDexcom",
+			"checkConnected",
+			"connectDexcom",
+			"checkConnected",
+			"alert",
+			"blue",
+			"^.+\\\"services\\\"",
+			"back",
+			"~"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"this.",
+			" =",
+			";",
+			"\\n\\n###",
+			"\\n\\n\\n###",
+			"### ",
+			"",
+			"\\n",
+			"}\\n",
+			"\\n",
+			"/",
+			"mcSwipePreviousPage",
+			"mcSwipeNextPage",
+			"mcSwipePreviousImage",
+			"mcSwipeNextImage",
+			"mcButtonPreviousPage",
+			"image-view",
+			"lib/quojs-3.0.5/",
+			"kuroapp.divHolder",
+			"screenImage",
+			"activateImageApp",
+			"\\n",
+			"\\1\\n",
+			"'''",
+			"\\\\'",
+			"\\n-",
+			"\\n- ",
+			"(",
+			"kuroapp.activate",
+			"\".app\"",
+			"image-app",
+			"startKordovaTemplateApp",
+			"KordovaTemplate",
+			"com.kurohai.mobilemoe",
+			"kuroapp.log",
+			"startDexcomScan",
+			"kuroapp\\1",
+			"kuroapp\\.screenMain\\.",
+			"        this.screen",
+			"this.screen",
+			"className = \\1",
+			"};\\n",
+			"};",
+			"\\\\\"",
+			"\\'",
+			": ",
+			"",
+			"/compassg",
+			"compassg/",
+			"/compassg/",
+			"",
+			"kindex.py ",
+			"sanitize",
+			"sanatize_directory",
+			"create_index",
+			"format_index_path",
+			"index_file",
+			"KindexController",
+			"\\\\\\\\",
+			"\\\\",
+			"(\\1) + ",
+			"*",
+			"",
+			" + ",
+			"*",
+			"",
+			".file.msg",
+			"\\1",
+			"\\n",
+			"",
+			"\\1",
+			"$d3",
+			"\\n",
+			"",
+			"\\n",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 102.0
+	},
+	"pinned_build_system": "",
+	"project": "adhoc.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"index.css",
+				"www\\css\\index.css"
+			],
+			[
+				"giti",
+				".gitignore"
+			],
+			[
+				"sftp",
+				"sftp-config.json"
+			],
+			[
+				"index.html",
+				"www\\index.html"
+			],
+			[
+				"android",
+				"platforms\\android\\AndroidManifest.xml"
+			],
+			[
+				"index",
+				"www\\index.html"
+			],
+			[
+				"kuroapp",
+				"www\\js\\kuroapp.js"
+			],
+			[
+				"sign",
+				"release-version-apk-signing.md"
+			],
+			[
+				"confi",
+				"config.xml"
+			],
+			[
+				"config",
+				"config.xml"
+			],
+			[
+				"read",
+				"readme.md"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"androidman",
+				"platforms\\android\\AndroidManifest.xml"
+			],
+			[
+				"config.xml",
+				"config.xml"
+			],
+			[
+				"standa",
+				"www\\lib\\quojs-3.0.5\\quo.standalone.js"
+			],
+			[
+				"",
+				"www\\index.html"
+			],
+			[
+				"quo",
+				"www\\lib\\quojs-3.0.5\\quo.element.js"
+			],
+			[
+				"quoges",
+				"www\\lib\\quojs-3.0.5\\quo.gestures.js"
+			],
+			[
+				"html",
+				"www\\index.html"
+			],
+			[
+				".css",
+				"www\\css\\index.css"
+			],
+			[
+				"test",
+				"test.py"
+			],
+			[
+				"redo",
+				"kindex\\redo.sh"
+			],
+			[
+				"__",
+				"kindex\\__init__.py"
+			],
+			[
+				"gitig",
+				"kindex\\.gitignore"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 378.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 199.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
